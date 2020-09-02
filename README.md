@@ -23,7 +23,7 @@ file.json
 
 If you use any dataset please cite their original source.  (I don't own any of the data available here)
 
-#ARCD and Arabic-SQuAD
+## ARCD and Arabic-SQuAD
 
 **Files:**
 `Arabic-SQuAD.json` , `arcd-test.json`, `arcd-train.json`
@@ -54,7 +54,7 @@ Arabic-SQuAD: 48,344 questions on 10,364 paragraphs. Note that Arabic-SQuAD is t
 }
 ```
 
-#TyDiQA (TyDiQA-GoldP)
+## TyDiQA (TyDiQA-GoldP)
 
 TyDi QA is a question answering dataset covering 11 typologically diverse languages with 204K question-answer pairs.
 
@@ -77,7 +77,7 @@ journal = {Transactions of the Association for Computational Linguistics}
 }
 ```
 
-#MLQA 
+## MLQA 
 
 [MLQA](https://github.com/facebookresearch/MLQA) (MultiLingual Question Answering) is a benchmark dataset for evaluating cross-lingual question answering performance.
 
