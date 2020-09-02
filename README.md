@@ -29,7 +29,9 @@ If you use any dataset please cite their original source.  (I don't own any of t
 `Arabic-SQuAD.json` , `arcd-test.json`, `arcd-train.json`
 
 **Statistics**:
+
 ARCD: 1,395 questions based on 465 paragraphs from 155 articles. split 50/50 for train/test
+
 Arabic-SQuAD: 48,344 questions on 10,364 paragraphs. Note that Arabic-SQuAD is translated from English SQuAD
 
 **Owner:** [Hussein Mozannar](https://github.com/husseinmozannar/SOQAL)
@@ -64,7 +66,9 @@ We filter the trainning set to get Arabic only QA pairs using `extract_arabic_qa
 `extract_arabic_qa_from_tydiqa.py`, `tydiqa-goldp-dev-arabic.json`
 
 **Statistics**:
+
 Train: 14508 QA pairs
+
 Dev: 921 QA pairs
 
 **Cite as**:
@@ -90,7 +94,9 @@ Statement from MLQA's GitHUB:
 `MLQA-test-context-ar-question-ar.json`, `MLQA-dev-context-ar-question-ar.json`
 
 **Statistics**:
+
 Dev: 517 paragraph and question pairs
+
 Test: 5225 paragraph and question pairs
 
 **Cite as**:
